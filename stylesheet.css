@@ -4,12 +4,14 @@
 body {
   font-family: 'Shadows Into Light', cursive; 
   font size: 37px;
-  color:#26FFF5
   {background-image: url("https://raw.githubusercontent.com/Arceus329/-portfolio-/master/download-1.jpg");
   background-repeat: no-repeat;
   background-position: bottom;
   background-size:cover;} 
   
 h1{
-  color:#592ABB }
-h2{color:#3508CE} 
+  color:#592ABB
+  border: 5px outset blue; 
+  padding: 5px top;}
+h2{color:#3508CE;
+  } 
