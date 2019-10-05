@@ -9,13 +9,13 @@ body {
   background-position: bottom;
   background-size:cover;} 
   
-h1{
+<h1>{
   color:#592ABB
-  border: 20px outset blue; 
+  border: 20px outset ; 
   padding: none;
   float: left;
-  float: right;
-  
+  float: right
   }
-h2{color:#3508CE;
+  
+<h2>{color:#3508CE;
   }
