@@ -7,10 +7,11 @@ body {
   background-image: url("https://raw.githubusercontent.com/Arceus329/-portfolio-/master/download-1.jpg");
   background-repeat: no-repeat;
   background-position: bottom;
-  background-size:cover; 
+  background-size:cover;
+  color: #FFFFFF 
+  }
   
 h1{
-  color:#592ABB
   border: 20px outset blue; 
   padding: none;
   float: left;
