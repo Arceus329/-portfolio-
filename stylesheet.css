@@ -3,7 +3,7 @@
 
 body {
   font-family: 'Shadows Into Light', cursive; 
-  font size: 50px;
+  font-size: 34px;
   background-image: url("https://raw.githubusercontent.com/Arceus329/-portfolio-/master/download-1.jpg");
   background-repeat: no-repeat;
   background-position: bottom;
@@ -33,7 +33,13 @@ h2{
   text-align center;
   padding: 14px 16px;
   text decoration: none;
+  font-size: 23px  
   
- .navbar: hover {
+ .navbar: .hover{
    background-color: #A6A2FF
      color:#02D3B9
+ .navbar: .active{
+   background color: #581845;
+   color: Black;
+   }
+     
