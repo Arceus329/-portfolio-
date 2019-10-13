@@ -23,4 +23,17 @@ h2{
 
 .homework {
   background-color: Black;
+  
 }
+
+.navbar { 
+  float: left;
+  display: block;
+  color:#DCFEFF;
+  text-align center;
+  padding: 14px 16px;
+  text decoration: none;
+  
+ .navbar: hover {
+   background-color: #A6A2FF
+     color:#02D3B9
